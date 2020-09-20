@@ -35,7 +35,7 @@ Tabela de conteúdos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
  [Git](https://git-scm.com/),
- [Node.js](https://nodejs.org/pt-br/)
+ [Node.js](https://nodejs.org/pt-br/) e
  [React](https://reactjs.org/)
  
  Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
@@ -57,19 +57,16 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
  $ npm start 
  $ yarn start
  
- # O servidor inciará na porta:porta
- # Acesse http://localhost:porta
+ # O servidor inciará na porta:3000
+ # Acesse http://localhost:3000
  ````
 <p> Quando você tiver realizado todos os passos do projeto verá a  <a href="#imagem" >imagem do projeto</a> </p>
 
 ### 🛠 Tecnologias<a id="tecnologias"></a>
  As seguintes ferramentas foram usadas na construção do projeto:
  
-  - [Css](https://developer.mozilla.org/pt-BR/docs/Web/CSS) 
-  - [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
   - [React](https://reactjs.org/)
-  - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-
+  - [Bootstrap](https://getbootstrap.com.br/)
 
 ### 👨‍💻Autor <a id="autor"> </a>
 
