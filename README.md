@@ -30,13 +30,13 @@ Tabela de conteúdos
  * * [Autor](#autor)
  <!--te-->
 
-<h6><b>Criar</b></h6>
+<h4>Criar</h6>
 <img alt="Imagem 2 do Projeto" src="https://github.com/Daniel-Vinicius/Spoilers/blob/master/.github/Imagem4.JPG"
 <a id="Imagens"> </a>
-<h6><b> Atualizar</b></h6>
+<h4>Atualizar</h6>
 <img alt="Imagem 3 do Projeto" title="#Projeto" src="https://github.com/Daniel-Vinicius/Spoilers/blob/master/.github/Imagem2.JPG"
 
-<h6><b>Deletar</b></h6>
+<h4>Deletar</h6>
 <img alt="Imagem 4 do Projeto" title="#Projeto" src="https://github.com/Daniel-Vinicius/Spoilers/blob/master/.github/Imagem3.JPG" 
 
 
