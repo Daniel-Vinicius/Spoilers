@@ -35,7 +35,7 @@ Tabela de conteúdos
 <a id="Imagens"> </a>
 <h4>Atualizar</h6>
 <img alt="Imagem 3 do Projeto" title="#Projeto" src="https://github.com/Daniel-Vinicius/Spoilers/blob/master/.github/Imagem2.JPG"
-
+<a id="Imagen"> </a>
 <h4>Deletar</h6>
 <img alt="Imagem 4 do Projeto" title="#Projeto" src="https://github.com/Daniel-Vinicius/Spoilers/blob/master/.github/Imagem3.JPG" 
 
