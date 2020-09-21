@@ -39,6 +39,7 @@ Tabela de conteúdos
 <h6><b>Deletar</b></h6>
 <img alt="Imagem 4 do Projeto" title="#Projeto" src="https://github.com/Daniel-Vinicius/Spoilers/blob/master/.github/Imagem3.JPG" 
 
+<a id="Imagens"> </a>
 ---
 ### 🛒 Pré-requisitos<a id="pre-requisitos"></a>
 
