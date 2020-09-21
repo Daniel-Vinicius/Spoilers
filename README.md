@@ -57,7 +57,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
  git clone https://github.com/Daniel-Vinicius/Spoilers
  
  # Acesse a pasta do projeto no terminal
- cd pasta
+ cd Spoilers
  
  # Instale as dependências
  $ yarn install ou
