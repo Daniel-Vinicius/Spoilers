@@ -23,14 +23,23 @@ Tabela de conteúdos
 ================= 
 <!--ts-->
  * [Sobre](#sobre) 
- 
-  *  * [Pre Requisitos](#pre-requisitos)
- *  * [Executando a aplicação](#rodando)
+ * * [Imagens](#Imagens)
+ * * [Pre Requisitos](#pre-requisitos)
+ * * [Executando a aplicação](#rodando)
  * * [Tecnologias](#tecnologias)
- *  * [Autor](#autor)
+ * * [Autor](#autor)
  <!--te-->
- 
- 
+
+<h6><b>Criar</b></h6>
+<img alt="Imagem 2 do Projeto" title="#Projeto" src="https://github.com/Daniel-Vinicius/Spoilers/blob/master/.github/Imagem4.JPG"
+
+<h6><b> Atualizar</b></h6>
+<img alt="Imagem 3 do Projeto" title="#Projeto" src="https://github.com/Daniel-Vinicius/Spoilers/blob/master/.github/Imagem2.JPG"
+
+<h6><b>Deletar</b></h6>
+<img alt="Imagem 4 do Projeto" title="#Projeto" src="https://github.com/Daniel-Vinicius/Spoilers/blob/master/.github/Imagem3.JPG" 
+
+---
 ### 🛒 Pré-requisitos<a id="pre-requisitos"></a>
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
