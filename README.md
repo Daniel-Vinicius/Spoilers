@@ -31,7 +31,7 @@ Tabela de conteúdos
  <!--te-->
 
 <h6><b>Criar</b></h6>
-<img alt="Imagem 2 do Projeto" title="#Projeto" src="https://github.com/Daniel-Vinicius/Spoilers/blob/master/.github/Imagem4.JPG"
+<img alt="Imagem 2 do Projeto" src="https://github.com/Daniel-Vinicius/Spoilers/blob/master/.github/Imagem4.JPG"
 <a id="Imagens"> </a>
 <h6><b> Atualizar</b></h6>
 <img alt="Imagem 3 do Projeto" title="#Projeto" src="https://github.com/Daniel-Vinicius/Spoilers/blob/master/.github/Imagem2.JPG"
