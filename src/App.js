@@ -5,8 +5,16 @@ import EditarSpoiler from "./components/spoilers/EditarSpoiler";
 import ConfirmarRemoverSpoiler from "./components/spoilers/ConfirmarRemoverSpoiler";
 import { BrowserRouter, Route, Link } from "react-router-dom";
 import "./App.css";
+import { Api } from "./assets/Util";
 
 class App extends Component {
+  componentDidMount() {
+    fetch(`${Api}`)
+      .then(spoilers =>
+        spoilers.json().then(spoilers => this.setState({ spoilers }))
+      )
+      .catch(erro => this.setState({ erro }));
+  }
   render() {
     return (
       <BrowserRouter>
