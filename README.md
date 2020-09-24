@@ -8,7 +8,7 @@
 
 🎮 Entre para o jogo, deixe seu spoiler clicando no botão abaixo ou clicando <a href="https://spoilersbr.netlify.app/">aqui</a>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/0e966600-fb7a-4e28-b60d-d1067a00eddf/deploy-status)](https://spoilersbr.netlify.app)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/256e0672-98d4-4d8d-b400-4b02a7d99712/deploy-status)](https://spoilersbr.netlify.app)
 
 <h2 align="center">  <img alt="Imagem do Projeto" id="imagem" title="#Projeto" src="https://github.com/Daniel-Vinicius/Spoilers/blob/master/.github/Imagem.JPG" />  </h2>
 
