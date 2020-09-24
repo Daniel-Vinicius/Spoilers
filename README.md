@@ -3,10 +3,12 @@
 🎞 Uma Aplicação React que é uma SPA (Single Page Application), que consome uma API externa, e usa o Framework front-end Bootstrap.
 
 ![](https://img.shields.io/badge/license-MIT-green)
-
 ![](https://img.shields.io/badge/languege-Portuguese-yellow)
-
 [![GitHub Repo stars](https://img.shields.io/github/stars/Daniel-Vinicius/Spoilers?style=social)](https://github.com/Daniel-Vinicius/Spoilers/stargazers)
+
+🎮 Entre para o jogo, deixe seu spoiler clicando no botão abaixo ou clicando <a href="https://spoilersbr.netlify.app/">aqui</a>
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0e966600-fb7a-4e28-b60d-d1067a00eddf/deploy-status)](https://spoilersbr.netlify.app)
 
 <h2 align="center">  <img alt="Imagem do Projeto" id="imagem" title="#Projeto" src="https://github.com/Daniel-Vinicius/Spoilers/blob/master/.github/Imagem.JPG" />  </h2>
 
